@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on robot.
+- 🌱 I’m currently learning robot.
+- 👯 I’m looking to collaborate on robot.
+- 🤔 I’m looking for help with robot.
+- 💬 Ask me about robot.
+- 📫 How to reach me: Into the unknown.
+- ⚡ Fun fact: I am a robot.
+
 <!--
 **YeongJunKim/YeongJunKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
