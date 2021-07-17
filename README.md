@@ -7,6 +7,8 @@
 - 💬 Ask me about robot.
 - 📫 How to reach me: Into the unknown.
 - ⚡ Fun fact: I am a robot.
+- 
+[![Colson](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://www.github.com/YeongJunKim)   
 
 <!--
 **YeongJunKim/YeongJunKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,5 +24,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![Colson](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://www.github.com/YeongJunKim)                    
+                 
