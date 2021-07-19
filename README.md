@@ -1,5 +1,7 @@
 # I am `Colson`
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYeongJunKim&count_bg=%2370FF00&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://www.github.com/YeongJunKim)
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on robot.
@@ -10,7 +12,6 @@
 - 📫 How to reach me: Into the unknown.
 - ⚡ Fun fact: I am a robot.
 - 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYeongJunKim&count_bg=%2370FF00&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://www.github.com/YeongJunKim)
 
 <!--
 **YeongJunKim/YeongJunKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
