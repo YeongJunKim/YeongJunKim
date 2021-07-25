@@ -11,7 +11,10 @@
 - 💬 Ask me about robot.
 - 📫 How to reach me: Into the unknown.
 - ⚡ Fun fact: I am a robot.
-- 
+
+
+Fast note
+[My issue](https://github.com/YeongJunKim/issue/issues)
 
 <!--
 **YeongJunKim/YeongJunKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,3 +31,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
                  
+                
