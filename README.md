@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/Matlab-232340?style=for-the-badge&logo=&logoColor=white"/></a>
 <br>
 <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ROS&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/STMicroelectronics-03234B?style=for-the-badge&logo=STMicroelectronics&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/STMicroelectronics/STM32-03234B?style=for-the-badge&logo=STMicroelectronics&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Autodesk/Inventor-0696D7?style=for-the-badge&logo=Autodesk&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/PADS-344133?style=for-the-badge&logo=&logoColor=white"/></a>
