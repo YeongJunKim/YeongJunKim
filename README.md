@@ -29,6 +29,7 @@
 
 <br>
 
+<h3 align="center">�🤷‍♀️ I.... am 🤷‍♂️</h3>
 <h5 align="center"> 🔭 I’m currently working on robot. <br>
 🌱 I’m currently learning robot. <br>
 👯 I’m looking to collaborate on robot. <br>
@@ -41,24 +42,16 @@
 
 <h3 align="center"> ☎ Contact ☎ </h3>
 <p align="center">
+  <a href="https://www.youtube.com/channel/UCVGnVztdbq1ZCPItX1hdQHA"><img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCVGnVztdbq1ZCPItX1hdQHA"/></a>&nbsp
   <a href="https://www.instagram.com/__yeongjun/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/__yeongjun/"/></a>&nbsp
-  <a href="mailto:dud3722000@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=dud3722000@gmail.com"/></a>
+  <a href="mailto:dud3722000@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=dud3722000@naver.com"/></a>
 </p>
 <br>
 
-###### Language: Matlab, C, C++, Python
-###### Tools: Qt, VsCode, STM32CubeIde, Autodesk Inventor(Hardware), PADS(Hardware), ROS, ...
-###### Currently, working with C#
-
-
-<div align="center" style="text-align:center">
-  
-  [![Velog's GitHub stats](https://github.com/YeongJunKim/issue/issues)](https://www.github.com/YeongJunKim)
-  
-</div>
-<p align="center"> [My issue](https://github.com/YeongJunKim/issue/issues) </p>
-
-
+<h3 align="center"> 🎃 Issue 🎃 </h3>
+<p align="center">
+  <a href="https://github.com/YeongJunKim/issue/issues/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white&link=https://github.com/YeongJunKim/issue/issues"/></a>
+</p>
 
 
 
