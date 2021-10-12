@@ -11,6 +11,9 @@
 - 💬 Ask me about robot.
 - 📫 How to reach me: Into the unknown.
 - ⚡ Fun fact: I am a robot.
+- Language: Matlab, C, C++, Python
+- Tools: Qt, VsCode, STM32CubeIde, Autodesk Inventor(Hardware), PADS(Hardware), ROS, ...
+- Currently, working with C#
 
 
 Fast note
