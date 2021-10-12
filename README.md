@@ -1,12 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=YeongJunKim&fontSize=70&animation=twinkling)
 
-<!--
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Hi!%20I'm%Colson!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
--->
-
+<h3 align="center"> Robot Man </h3>
 
 <p align="center">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYeongJunKim&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+</p>
+
+
+<h3 align="center"> 💪🏿 Curriculum Vitae (CV) 💪 </h3>
+<p align="center">
+  <a href="https://sites.google.com/view/colson96/%ED%99%88"><img src="https://img.shields.io/badge/Google%20site-34A853?style=for-the-badge&logo=Google&logoColor=white&link=https://sites.google.com/view/colson96/%ED%99%88"/></a>
 </p>
 
 <h3 align="center">🚀 Skills &Stacks 🛰</h3>
@@ -29,7 +32,7 @@
 
 <br>
 
-<h3 align="center">�🤷‍♀️ I.... am 🤷‍♂️</h3>
+<h3 align="center">🤷‍♀️ I.... am 🤷‍♂️</h3>
 <h5 align="center"> 🔭 I’m currently working on robot. <br>
 🌱 I’m currently learning robot. <br>
 👯 I’m looking to collaborate on robot. <br>
