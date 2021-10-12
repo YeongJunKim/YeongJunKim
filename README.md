@@ -8,9 +8,18 @@
 
 
 <h3 align="center"> 💪🏿 Curriculum Vitae (CV) 💪 </h3>
+
+<p align="center">
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
+" target="_blank"><img src="https://img.shields.io/badge/Google%20site%20CV-34A853?style=for-the-badge&logo=Google&logoColor=white&link=https://sites.google.com/view/colson96/%ED%99%88"
+alt="IMAGE ALT TEXT HERE" width="240" height="45" border="50" /></a>
+</p>
+
+<!--
 <p align="center">
   <a href="https://sites.google.com/view/colson96/%ED%99%88"><img src="https://img.shields.io/badge/Google%20site-34A853?style=for-the-badge&logo=Google&logoColor=white&link=https://sites.google.com/view/colson96/%ED%99%88"/></a>
 </p>
+-->
 
 <h3 align="center">🚀 Skills &Stacks 🛰</h3>
 
