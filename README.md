@@ -56,6 +56,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="45" border="50" /></a>
   <a href="https://www.youtube.com/channel/UCVGnVztdbq1ZCPItX1hdQHA"><img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCVGnVztdbq1ZCPItX1hdQHA"/></a>&nbsp
   <a href="https://www.instagram.com/__yeongjun/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/__yeongjun/"/></a>&nbsp
   <a href="mailto:dud3722000@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=dud3722000@naver.com"/></a>
+  <a href="https://www.linkedin.com/in/colson96/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=Gmail&logoColor=white&link=dud3722000@naver.com"/></a>
 </p>
 <br>
 
