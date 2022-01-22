@@ -36,6 +36,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="45" border="50" /></a>
 <img src="https://img.shields.io/badge/PADS-344133?style=for-the-badge&logo=&logoColor=white"/></a>
 <br>
 <img src="https://img.shields.io/badge/QT-41CD52?style=for-the-badge&logo=Qt&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/KiCAD-22314E?style=for-the-badge&logo=&logoColor=white"/></a>
 </p>
 
 <br>
